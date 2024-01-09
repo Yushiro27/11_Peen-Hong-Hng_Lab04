@@ -1,14 +1,17 @@
 Unit Testing
 
 What is unit Testing?
+Unit testing is the process of checking small pieces of code to deliver information early and often.
 
-Unit testing is conducted by
+Unit testing is conducted by Developers
 
 __________________________________________
 Integration Testing
 
 What is Integration Testing?
+It is a software testing in which various modules in an application are tested as a combined unit
 
-Integration Testing is conducted by
+Integration Testing is conducted by Developers
 
 It is type of (blackbox/whitebox testing)
+It is a type of blackbox testing
